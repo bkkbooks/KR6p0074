@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6p0074/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 轉經行道願往生淨土法事讚
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T47/T47n1979.xml
+    old_id: T47n1979
+hash: sha256:a34186d81a1bc7d271a08446c28ff06170fb4cdb5e519f97b4aca5305ca41d47

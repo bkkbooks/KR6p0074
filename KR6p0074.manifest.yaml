@@ -1,0 +1,58 @@
+canonical_identifier: bkk:krp/KR6p0074/v1
+canonical_location: https://kanripo.org/bkk/KR6p0074/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 轉經行道願往生淨土法事讚
+  identifiers:
+    alt_id:
+    - T47n1979
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T47/T47n1979.xml
+    old_id: T47n1979
+  edition:
+    short: bkk
+editions:
+- short: 原
+  label: 原
+  source_xml_id: wit1
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6p0074_000.yaml, hash: 'sha256:a34186d81a1bc7d271a08446c28ff06170fb4cdb5e519f97b4aca5305ca41d47'}
+  - {seq: 1, filename: KR6p0074_001.yaml, hash: 'sha256:e60e9c749ba9b681d8d23ec5983a4e1bb6eb3b4d1e0907b19f422047e96356a3'}
+  - {seq: 2, filename: KR6p0074_002.yaml, hash: 'sha256:072a62228fb49544010f663a8000d690546381f95c8acaa441f6dbb5d2b1148b'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6p0074_001.markers.yaml, hash: 'sha256:db00ede19a96c4420beb957dc0394693b4af9fa51f05b63f75c5136812e3a7b6'}
+  - {seq: 2, role: markers, filename: assets/KR6p0074_002.markers.yaml, hash: 'sha256:1f54aaf50572ffd1fac89b4b0d1d4dc3b94c38a3a7d5b6a8694f84526d241834'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6p0074_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 8198
+  label: '轉經行道願往生淨土法事讚卷
+
+    上'
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6p0074_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 9648
+  label: '安樂行道轉經願生淨土法事讚
+
+    下卷'
+  type: juan
+  level: 1
+hash: sha256:f47f1c1fe347f31c7d87d10785259cd8b2b48f856f7270fb9a89fdccd211b29c
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
